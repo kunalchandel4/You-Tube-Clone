@@ -23,9 +23,9 @@ To deploy this project run
 
 
 ## Features
-- sorting Functionality on particular ID
-- Search
-- To View The certain Vedio refer to Orgin www.youtube.com
+- sorting functionality on particular ID
+- search  functionality
+- To View The certain Vedio refer to Orginal www.youtube.com
 
 
 ## Teams
