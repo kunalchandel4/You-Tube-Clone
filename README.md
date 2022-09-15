@@ -10,8 +10,6 @@ To deploy this project run
 ```bash
  github - Deployment -https://kunalchandel4.github.io/You-Tube-Clone/
 ```
-
-
 ## Tech Stack
 
 - HTML 5
@@ -19,21 +17,11 @@ To deploy this project run
 - JavaScript
 - You Tube APi
 
-
-
-
 ## Features
 - sorting functionality on particular ID
 - search  functionality
 - To View The certain Vedio refer to Orginal www.youtube.com
-
-
-## Teams
-- Varainder Brar 
-- Sonia Saini
-- Kunal Chandel
-- Rajiv Suting
-- Rajeev Awasti 
+ 
 ## Screenshots
 
 ![App Screenshot](Images/youtube1.png)
